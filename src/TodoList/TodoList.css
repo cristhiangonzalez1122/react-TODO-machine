@@ -1,0 +1,13 @@
+.TodoList {
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+    background-color: beige;
+}
+
+.TodoList ul {
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    margin-bottom: 20px;
+}
